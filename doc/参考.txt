@@ -1,0 +1,7 @@
+nativeMessaging£º
+
+https://developer.chrome.com/extensions/nativeMessaging
+
+use c++£º
+http://stackoverflow.com/questions/26582584/chrome-native-host-in-c-cannot-communicate-with-chrome
+
